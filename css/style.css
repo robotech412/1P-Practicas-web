@@ -1,0 +1,104 @@
+
+.image-fondo {
+    background-image: url("../img/oficina.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.image-icon1{
+    background-image: url("../img/descarga.png");
+}
+
+
+.cabecera{
+  color: #fff;
+   width: 1350px; height: 500px;
+
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: #111 0px 0px 10px;
+    
+}
+
+
+.fas{
+  color: red;
+  text-align: left;
+font-size: 100px;
+    text-align: left;
+ position: relative;
+   right:380px;
+}
+
+.icono{
+  color: red;
+  text-align: left;
+font-size: 100px;
+    text-align: left;
+ position: relative;
+   right:180px;
+}
+
+.icono2{
+  color: red;
+  text-align: left;
+font-size: 100px;
+    text-align: left;
+ position: relative;
+   left:50px;
+}
+
+
+.icono3{
+  color: red;
+  text-align: left;
+font-size: 100px;
+    text-align: left;
+ position: relative;
+   left:290px;
+}
+
+
+
+.text1{
+  color: blanchedalmond;
+  text-align: right;
+font-size: 20px;
+ 
+ position: relative;
+   right:520px;
+}
+
+
+.text2{
+  color: blanchedalmond;
+  text-align: right;
+font-size: 20px;
+ 
+ position: relative;
+   right:320px;
+}
+
+
+td {
+    font-size: 20px;
+    line-height: 20px;
+    padding: 0 50px;
+    text-align: justify;
+    width: 10%;
+}
+
+td.first {
+    border-right: 5px solid #4BB495  ;
+}
+
+
+
+h2 {
+    font-size: 25px;
+    line-height: 25px;
+    padding: 50 10px;
+    text-align:center;
+    width: 100%;
+}
