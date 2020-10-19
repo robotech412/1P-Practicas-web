@@ -21,14 +21,6 @@
 }
 .collapse {
 }
-.navbar-collapse {
-}
-.justify-content-end {
-}
-.navbar-nav {
-}
-.nav-item {
-}
 
 .container-fluid{
     text-align: center;
@@ -40,8 +32,17 @@
     padding: 70px;
     background-color: #fff;
 }
-.fa {
+
 }
+
+.box {
+}
+
+.fa .fa-home .icon {
+    align-items: center;
+}
+
+
 .fa-map-marker {
 }
 .name {
